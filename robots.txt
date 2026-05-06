@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://capzula.github.io/reference-his63k/sitemap.xml
